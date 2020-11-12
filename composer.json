@@ -1,0 +1,24 @@
+{
+    "name": "shashidharg/module-layoutlogger",
+    "description": "Log Layout flow",
+    "type": "magento2-module",
+    "license": [
+        "proprietary"
+    ],
+    "authors":[
+        {
+            "name":"Shashidhar",
+            "email":"shashidhar.gampa@cognizant.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "ShashidharG\\LayoutLogger\\": ""
+        }
+    }
+}
