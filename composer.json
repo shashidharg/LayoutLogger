@@ -1,5 +1,5 @@
 {
-    "name": "shashidharg/module-layoutlogger",
+    "name": "shashidharg/layoutlogger",
     "description": "Log Layout flow",
     "type": "magento2-module",
     "license": [
@@ -20,5 +20,12 @@
         "psr-4": {
             "ShashidharG\\LayoutLogger\\": ""
         }
+    },
+    "repositories": {
+        "0": {
+            "type": "composer",
+            "url": "https://repo.magento.com/"
+        },
+        "packagist.org": false
     }
 }
