@@ -20,5 +20,12 @@
         "psr-4": {
             "ShashidharG\\LayoutLogger\\": ""
         }
+    },
+    "repositories": {
+        "0": {
+            "type": "composer",
+            "url": "https://repo.magento.com/"
+        },
+        "packagist.org": false
     }
 }
