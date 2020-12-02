@@ -12,6 +12,7 @@
         }
     ],
     "require": {
+        "magento/project-enterprise-edition" : "2.4.1"
     },
     "autoload": {
         "files": [
